@@ -11,3 +11,16 @@ html{
   margin: 10px 0;
 
 }
+.logo{
+  position: relative;
+  top: -570px;
+  left: 0%;
+}
+.header{
+  position: relative;
+  top: -570px;
+  left: 0%;
+  color: white;
+  font-size: 15px;
+  font-style: normal;
+}
