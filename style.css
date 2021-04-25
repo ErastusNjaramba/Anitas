@@ -41,3 +41,24 @@ span{
   height: 70px;
   background-color: #F25B29;
 }
+.happyhour{
+  position: relative;
+  top: -477px;
+  left: 10.9%;
+}
+.service{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  top: -220px;
+  left: 19.9%;
+}
+.meal{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  top: -150px;
+  left: 36%;
+  font-size: 25px;
+  color: white;
+}
