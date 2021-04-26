@@ -113,24 +113,31 @@ span{
     display: flex;
     flex-direction: row;
     position: absolute;
+    top: 1400px;
     left: 50%;
+    box-sizing: border-box;
+    border: 10px solid rgb(250, 244, 244); 
   }
   .drinks{
     color: #000000;
     margin-left: 20%;
     width: 25%;
     margin-top:-0%;
+    position: relative;
+    top: 50px;
+    text-align: right;
+    
   }
-  .foods{
+  /* .foods{
     color: #000000;
     margin-left: 50%;
     width: 25%;
     margin-top:-8%;
-  }
+  } */
   .arrow2{
     position: absolute;
-    top: 1468px;
-    left: 58.6%;
+    top:1726px;
+    left: 43.6%;
     border: solid #F4845E;
     border-width: 0 3px 3px 0;
     display: inline-block;
@@ -140,8 +147,8 @@ span{
   }
   .line2{
     position: absolute;
-    top: 1483px;
-    left: 57%;
+    top: 1741px;
+    left: 42%;
     width: 2%;
     border: 1px solid #F4845E;
   
@@ -150,7 +157,7 @@ span{
       border: 3px solid #F4845E; 
       width: 180px;
       height: fit-content;
-    }
-    h5{
-      color: #F4845E;
+      position: absolute;
+      top: 1715px;
+      left: 35%;
     }
