@@ -1,5 +1,6 @@
-html{
+ html{
   font-family: Arial, Helvetica, sans-serif;
+  
 }
 .navigation {
   position: relative;
@@ -31,7 +32,7 @@ span{
   margin: 10px;
   padding: 20px;
   width: 312px;
-  height: 50px;
+  height: 49px;
   background-color: #f8f8f8;
 }
 .party{
@@ -42,18 +43,19 @@ span{
   background-color: #F25B29;
 }
 .happyhour{
-  position: relative;
-  top: -477px;
-  left: 10.9%;
+  position: absolute;
+  top: 635px;
+  left: 11.3%;
 }
 .service{
   display: flex;
   flex-direction: row;
   position: relative;
-  top: -220px;
-  left: 19.9%;
+  top: -220.5px;
+  left: 34.3%;
 }
 .meal{
+  
   display: flex;
   flex-direction: row;
   position: relative;
@@ -62,3 +64,14 @@ span{
   font-size: 25px;
   color: white;
 }
+.lunch{
+  opacity: 0.5;
+} 
+.fastfood{
+  position: absolute;
+  top: 950px;
+  left: 20%;
+  background-color: rgb(226, 218, 218);
+  box-sizing: border-box;
+  border: 10px solid rgb(250, 244, 244); 
+} 
