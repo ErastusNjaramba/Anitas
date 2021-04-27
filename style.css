@@ -128,18 +128,11 @@
     color: #000000;
     margin-left: 20%;
     width: 25%;
-    /* margin-top:-0%; */
     position: relative;
     top: 100px;
     text-align: right;
     
   }
-  /* .foods{
-    color: #000000;
-    margin-left: 50%;
-    width: 25%;
-    margin-top:-8%;
-  } */
   .arrow2{
     position: absolute;
     top:1726px;
@@ -315,5 +308,85 @@
   position: absolute;
   margin-top: 68%;
   margin-left: 0%;
+  color: #ffffff;
+}
+.email{
+   position: absolute;
+  margin-top: 75%;
+  margin-left: 0%;
+  color: #ffffff;
+}
+
+.back{
+  position: absolute;
+  margin-top: 74.5%;
+  margin-left: -1%;
+  border: 0.1px solid black; 
+  width: 270px;
+  height: 40px;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.2;
+}
+.back2{
+  position: absolute;
+  margin-top: 74.5%;
+  margin-left: 18%;
+  border: 0.1px solid black; 
+  width: 170px;
+  height: 40px;
+  background-color: #F25B29;
+}
+.subscribe{
+  position: absolute;
+   margin-top: 75%;
+   margin-left: 20%;
+   color: #ffffff;
+ }
+.footerback{
+  position: absolute;
+  margin-top: 81.5%;
+  margin-left: -25%;
+  border: 0.1px solid black; 
+  width: 1400px;
+  height: 301px;
+  background-color: #F25B29;
+}
+.logowhite{
+  position: absolute;
+  margin-top: 84.2%;
+  margin-left: 5%;
+}
+.menu{
+  position: absolute;
+  margin-top: 84.5%;
+  margin-left: 9%;
+  color: white;
+
+}
+.what{
+  position: absolute;
+  margin-top: 87.5%;
+  margin-left: 4.5%;
+  color: white;
+}
+.facebook{
+  position: absolute;
+  margin-top: 90%;
+  margin-left: 4%;
+}
+.twitter{
+  position: absolute;
+  margin-top: 90%;
+  margin-left: 9%;
+}
+.pinterest{
+  position: absolute;
+  margin-top: 90%;
+  margin-left: 14%;
+}
+.restaurant{
+  position: absolute;
+  margin-top: 96%;
+  margin-left: 6.5%;
   color: #ffffff;
 }
