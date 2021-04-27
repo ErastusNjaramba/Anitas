@@ -159,11 +159,101 @@
     border: 1px solid #F4845E;
   
     }
-    .border2{
+     .border2{
       border: 3px solid #F4845E; 
       width: 180px;
       height: fit-content;
-      position: absolute;
-      top: 1715px;
-      left: 35%;
-    }
+      margin-top: 8.3%;
+      margin-left: 35%;
+    } 
+
+
+.background{
+  position: absolute;
+  margin-top: 80px;
+  margin-left: -25%;
+}
+.heading{
+  position: absolute;
+  margin-top: 170px;
+  margin-left: -12%;
+  display: flex;
+  justify-content: space-between;
+
+}
+.food1{
+  color: #F4845E;;
+  text-align: center;
+    border: 0px solid #E1E1E1; 
+    width: 225px;
+    height: 50px;
+}
+.drink{
+  text-align: center;
+  border: 1px solid #D1D1D1; 
+  width: 225px;
+  height: 50px;
+  background-color: #E3E3E3;
+}
+.chicken{
+  text-align: center;
+  border: 1px solid #D1D1D1; 
+  width: 225px;
+  height: 50px;
+  background-color: #E3E3E3;
+}
+.rice{
+  text-align: center;
+  border: 1px solid #D1D1D1; 
+  width: 225px;
+  height: 50px;
+  background-color: #E3E3E3;
+}
+.image{
+  position: absolute;
+  margin-top: 300px;
+  margin-left: -12%;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+
+}
+.backcolor{
+  position: absolute;
+  margin-top: 187px;
+  margin-left: -16%;
+  border: 0px solid black; 
+  width: 1070px;
+  height: 390px;
+  background-color: white;
+}
+.arrow3{
+  position: absolute;
+  top:106px;
+  left: 102%;
+  border: solid #F4845E;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+.arrow4{
+  position: absolute;
+  top:106px;
+  left: -3%;
+  border: solid #F4845E;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+.meal2{
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 10%;
+   display: flex;
+  justify-content: space-between; 
+  width: 80%;
+}
