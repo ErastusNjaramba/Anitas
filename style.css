@@ -295,3 +295,14 @@
   margin-left: -10%;
   text-align: center;
 }
+.about{
+  position: absolute;
+  margin-top: 50%;
+  margin-left: 25%;
+  color: #F4845E;
+}
+.menu{
+  position: absolute;
+  margin-top: 52%;
+  margin-left: 22%;
+}
